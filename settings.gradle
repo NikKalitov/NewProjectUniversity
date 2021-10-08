@@ -1,0 +1,3 @@
+include ':pomodoro'
+include ':app'
+rootProject.name = "NewProjectUniversity"
